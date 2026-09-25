@@ -1,0 +1,31 @@
+[
+  {
+    "round": 1,
+    "circuit_name": "Albert Park Circuit",
+    "country": "Australia",
+    "locality": "Melbourne",
+    "sessions": {
+      "fp1": "2026-03-13T01:30:00Z",
+      "fp2": "2026-03-13T05:00:00Z",
+      "fp3": "2026-03-14T01:30:00Z",
+      "qualifying": "2026-03-14T05:00:00Z",
+      "sprint": null, 
+      "race": "2026-03-15T04:00:00Z"
+    }
+  },
+  {
+    "round": 2,
+    "circuit_name": "Shanghai International Circuit",
+    "country": "China",
+    "locality": "Shanghai",
+    "sessions": {
+      "fp1": "2026-03-20T03:30:00Z",
+      "fp2": null,
+      "fp3": null,
+      "sprint_qualifying": "2026-03-20T07:30:00Z",
+      "sprint": "2026-03-21T03:00:00Z",
+      "qualifying": "2026-03-21T07:00:00Z",
+      "race": "2026-03-22T07:00:00Z"
+    }
+  }
+]
